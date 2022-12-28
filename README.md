@@ -2,6 +2,7 @@
 - 👀 I’m interested in adventures and coding
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: 
+
 Email: mari2000rodrigues.dev@gmail.com
 
 Linkedin: https://www.linkedin.com/in/maria-das-graças-rodrigues-luciano-239b09148/
