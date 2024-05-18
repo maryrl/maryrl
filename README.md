@@ -6,7 +6,7 @@
 Email: mari2000rodrigues.dev@gmail.com
 
 Linkedin: https://www.linkedin.com/in/maria-das-graças-rodrigues-luciano-239b09148/
-Portfólio: https://maryrl.github.io/myporf-lio/index.html
+Portfólio: https://gamma.app/docs/Bem-vindo-ao-meu-portfolio-gs6653eh0zxp4hl/preview
 Telephone: +55 (88) 9.9774-6557
 
 
