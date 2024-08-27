@@ -16,6 +16,13 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Mary-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mary-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+
+
+  <div>
+<a href="https://github.com/maryrl">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryrl&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maryrl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
   
   ##
  
