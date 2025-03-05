@@ -5,6 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Oiii eu sou a Maria Rodrigues, desenvolvedora FullStack em formação!
+## Hi, I'm Maria Rodrigues, a FullStack developer in training!
 
 
 <div style="display: inline_block"><br>
