@@ -4,8 +4,8 @@ maryrl/maryrl is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-## Oiii eu sou a Maria Rodrigues, desenvolvedora FullStack em formação!
-## Hi, I'm Maria Rodrigues, a FullStack developer in training!
+## Oiii eu sou a Maria Rodrigues, desenvolvedora FullStack!
+## Hi, I'm Maria Rodrigues, a FullStack developer!
 
 
 <div style="display: inline_block"><br>
@@ -37,4 +37,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/maria-das-graças-rodrigues-luciano-239b09148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/Maryrl/Maryrl/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Maryrl/Maryrl/blob/output/github-contribution-grid-snake.svg)!
