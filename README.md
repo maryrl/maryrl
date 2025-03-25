@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Maria eu sou desenvolvedora FullStack, moro atualmente no Ceará, tenho 24 anos e sou apaixonada por tecnologia ....</h2>
+<h2 align="left">Olá 👋! Meu nome é Maria eu sou desenvolvedora FullStack, sou do Ceará, tenho 24 anos e sou apaixonada por tecnologia ....</h2>
 
 ###
 
@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maryrl/maryrl/output/snake.svg" alt="Snake animation" />
 
 ###
