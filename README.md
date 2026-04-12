@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Me chamo Maria tenho 24 anos sou desenvolvedora FullStack, minhas principais stacks são JavaScript, Typescrypt, Python. Domino Frameworks como Next.js, Angular e banco de dados
+Olá! Me chamo Maria tenho 25 anos sou desenvolvedora FullStack, minhas principais stacks são JavaScript, Typescrypt, Python. Domino Frameworks como Next.js, Angular e banco de dados
 
 
 ## 🌐 Socials:
