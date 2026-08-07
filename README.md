@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou apaixonada por tecnologia e vivo intensamente esse universo. Atualmente curso o 2° semestre de Sistemas da Informação no IFCE e já tive experiência prática em uma empresa parceira de um programa de capacitação do governo, atuando como desenvolvedora fullstack durante 4 meses em um projeto específico.
+Sou apaixonada por tecnologia e vivo intensamente esse universo. Atualmente curso o 3° semestre de Sistemas da Informação no IFCE e já tive experiência prática em uma empresa parceira de um programa de capacitação do governo, atuando como desenvolvedora fullstack durante 4 meses em um projeto específico.
 
 Meu objetivo é seguir carreira como Frontend Developer Jr, criando interfaces modernas, acessíveis e seguras que proporcionem experiências incríveis para os usuários.
 
